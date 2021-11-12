@@ -519,7 +519,7 @@ section {
   padding: 8px 20px;
   margin: 0;
   background: #e7f1fd;
-  color: #106eea;
+  color: rgb(119, 8, 76);
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
@@ -530,7 +530,7 @@ section {
   font-weight: 700;
 }
 .section-title h3 span {
-  color: #106eea;
+  color: rgb(119, 8, 76);
 }
 .section-title p {
   margin: 15px auto 0 auto;
