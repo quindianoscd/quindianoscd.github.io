@@ -1,5 +1,5 @@
 # Quindianos C.D.
 
-Página Oficial de Quindianos Club Deportivo
+Página Oficial de Quindianos Club Deportivo.
 
 Mi primera página profesional desarrollada para un club de fútbol del que hago parte en mi ciudad.
