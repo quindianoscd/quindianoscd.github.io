@@ -1064,7 +1064,7 @@ section {
 }
 .pricing .box h4 {
   font-size: 36px;
-  color: #106eea;
+  color: rgb(119, 8, 76);
   font-weight: 600;
   font-family: "Poppins", sans-serif;
   margin-bottom: 20px;
@@ -1106,7 +1106,7 @@ section {
   text-align: center;
 }
 .pricing .btn-buy {
-  background: #106eea;
+  background: rgb(119, 8, 76);
   display: inline-block;
   padding: 8px 35px 10px 35px;
   border-radius: 4px;
