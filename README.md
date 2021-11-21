@@ -1,4 +1,4 @@
-# Quindianos_CD
+# Quindianos C.D.
 
 Página Oficial de Quindianos Club Deportivo
 
