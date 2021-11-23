@@ -675,9 +675,11 @@ section {
 }
 .about .content ul p {
   font-size: 15px;
+  text-align: justify;
 }
 .about .content p:last-child {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
@@ -960,6 +962,8 @@ section {
   margin-bottom: 20px;
 }
 .portfolio-details .portfolio-description p {
+  justify-content: right;
+  text-align: justify;
   padding: 0;
 }
 
@@ -1168,6 +1172,7 @@ section {
 .faq .faq-list p {
   margin-bottom: 0;
   padding: 10px 0 0 25px;
+  text-align: justify;
 }
 .faq .faq-list .icon-show {
   display: none;
@@ -1300,6 +1305,7 @@ section {
     transform: rotate(360deg);
   }
 }
+*/
 
 /*--------------------------------------------------------------
 # Footer
