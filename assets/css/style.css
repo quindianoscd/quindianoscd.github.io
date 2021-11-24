@@ -627,13 +627,14 @@ section {
   font-size: 18px;
 }
 .featured-services .title a {
-  color: #111;
+  color: rgb(17, 17, 17);
 }
 .featured-services .description {
   font-size: 15px;
   line-height: 28px;
   margin-bottom: 0;
 }
+
 .featured-services .icon-box:hover .title a, .featured-services .icon-box:hover .description {
   color: #fff;
 }
