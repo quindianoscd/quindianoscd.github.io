@@ -729,10 +729,10 @@ section {
   box-shadow: 0px 0 25px 0 rgba(16, 110, 234, 0.1);
 }
 .services .icon-box:hover h4 a, .services .icon-box:hover .icon i {
-  color: #106eea;
+  color: rgb(119, 8, 76);
 }
 .services .icon-box:hover .icon {
-  border-color: #106eea;
+  border-color: rgb(119, 8, 76);
 }
 
 /*--------------------------------------------------------------
@@ -949,6 +949,7 @@ section {
   list-style: none;
   padding: 0;
   font-size: 15px;
+  text-align: justify;
 }
 .portfolio-details .portfolio-info ul li + li {
   margin-top: 10px;
@@ -1002,7 +1003,7 @@ section {
   border-radius: 4px;
   width: 36px;
   height: 36px;
-  background: rgba(16, 110, 234, 0.8);
+  background: rgb(119, 8, 76);
   display: inline-block;
   transition: ease-in-out 0.3s;
   color: #fff;
@@ -1121,7 +1122,7 @@ section {
 }
 .pricing .featured h3 {
   color: #fff;
-  background: #106eea;
+  background: rgb(119, 8, 76);
 }
 .pricing .advanced {
   width: 200px;
